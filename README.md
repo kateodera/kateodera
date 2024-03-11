@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW14ZXRyNWhpN2ZnZHo1NXgyanZhczl4YWZjeXdyeW55YmZ1c3E0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.giff" width="600" height="300"/>
 </div>
 - 👋 Hi, I’m @kateodera
 - 👀 I’m interested in Django, Geo-python, R, Web development, and Computer vision
