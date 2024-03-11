@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJiYXpkYXV6MmZmMHJ4bTMwN2Q5ZGo0OTY2d3h1ZHFiOGw1dmNiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/catherine-odera/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
