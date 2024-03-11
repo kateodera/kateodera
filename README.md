@@ -21,10 +21,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW14ZXRyNWhpN2ZnZHo1NXgyanZhczl4YWZjeXdyeW55YmZ1c3E0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
 </div>
-- 👋 Hi, I’m @kateodera
+
+
 - 👀 I’m interested in Django, Geo-python, R, Web development, and Computer vision
 - 🌱 I’m currently learning Geopython, R, CSS, HTML and Javascript
-- 💞️ I’m looking to collaborate on Django, Computer vision, Geopython and R
+- 💞️ I’m looking to collaborate on Django, Computer vision, and Geopython 
 - 📫 How to reach me akinyi180@gmail.com
 
 <!---
