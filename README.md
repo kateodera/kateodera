@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJiYXpkYXV6MmZmMHJ4bTMwN2Q5ZGo0OTY2d3h1ZHFiOGw1dmNiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJiYXpkYXV6MmZmMHJ4bTMwN2Q5ZGo0OTY2d3h1ZHFiOGw1dmNiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -26,8 +26,8 @@
 
 ### :woman_technologist: About Me :
 - 👀 I’m interested in Django, Geo-python, R, Web development, and Computer vision
-- 🌱 I’m currently learning Geopython, R, CSS, HTML and Javascript
-- 💞️ I’m looking to collaborate on Django, Computer vision, and Geopython 
+- 🌱 I’m currently learning Geo-python, R, CSS, HTML and Javascript
+- 💞️ I’m looking to collaborate on Django, Computer vision, and Geo-python 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/catherine-odera/)
   
 ---
