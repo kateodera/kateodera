@@ -28,7 +28,7 @@
 - 👀 I’m interested in Django, Geo-python, R, Web development, and Computer vision
 - 🌱 I’m currently learning Geopython, R, CSS, HTML and Javascript
 - 💞️ I’m looking to collaborate on Django, Computer vision, and Geopython 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/catherine-odera/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/catherine-odera/)
   
 ---
 
@@ -53,6 +53,11 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kateodera&theme=dark)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kateodera&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
 <!---
 kateodera/kateodera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
