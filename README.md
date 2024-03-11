@@ -21,13 +21,15 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW14ZXRyNWhpN2ZnZHo1NXgyanZhczl4YWZjeXdyeW55YmZ1c3E0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 
 ### :woman_technologist: About Me :
 - 👀 I’m interested in Django, Geo-python, R, Web development, and Computer vision
 - 🌱 I’m currently learning Geopython, R, CSS, HTML and Javascript
 - 💞️ I’m looking to collaborate on Django, Computer vision, and Geopython 
-- 📫 How to reach me akinyi180@gmail.com
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/catherine-odera/)
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -45,6 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" **alt="OpenCV" width="40" height="40"/>&nbsp;
 </div>
+
 ---
 
 ### :fire: My Stats :
